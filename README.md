@@ -1,0 +1,1 @@
+O curso está sendo ótimo. Faltou só explicar a parte de configuração inicial do git (nome, email etc.).
